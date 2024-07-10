@@ -12,7 +12,8 @@ Please keep in mind the following terms of use for the research ideas you find h
 4. If your work gets published, please provide a reference to your work via e-mail to  [maxim.vidgof@wu.ac.at](mailto:maxim.vidgof@wu.ac.at?subject=%5BBPM%20Ideas%20Hub%20Update%5D) so that the repository can be updated.
 
 ## Current Ideas
-- tba
+- [Ideas proposed by Maxim Vidgof](https://github.com/MaxVidgof/bpm-ideas-hub/blob/main/Contributors/Maxim%20Vidgof.md)
+- Other contributors are welcome!
 
 ## Contribute
 If you want your ideas to be posted in this repository, please send an e-mail to [maxim.vidgof@wu.ac.at](mailto:maxim.vidgof@wu.ac.at?subject=%5BBPM%20Ideas%20Hub%20Contribution%5D) with the Subject "[BPM Ideas Hub Contribution]". Please provide your name, e-mail, and ideas with all additional information you find important (e.g. explanations or references).
